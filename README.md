@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [A Travel Agency Website](https://parindey7.com/)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Redux**
 
 - 👯 I’m looking to collaborate on **A Travel Agency Website**
 
@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [portfolio-ui-ux.vercel.app/](portfolio-ui-ux.vercel.app/)
 
-- ⚡ Fun fact **I am a passionate travel photographer and filmmaker!**
+- ⚡ Fun fact **I am a passionate travel photographer and filmmaker **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

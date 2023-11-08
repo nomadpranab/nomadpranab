@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **LeetCode Clone**
 
-- 👨‍💻 All of my projects are available at [portfolio-ui-ux.vercel.app/](portfolio-ui-ux.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio-ui-ux.vercel.app/](https://portfolio-ui-ux.vercel.app/)
 
 - 📝 I regularly write articles on [https://parindey7.com/aboutus.html](https://parindey7.com/aboutus.html)
 

@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **pranabpatra520@gmail.com**
 
-- 📄 Know about my experiences [portfolio-ui-ux.vercel.app/](portfolio-ui-ux.vercel.app/)
+- 📄 Know about my experiences [Here](portfolio-ui-ux.vercel.app/)
 
 - ⚡ Fun fact **I am a passionate travel photographer and filmmaker **
 
